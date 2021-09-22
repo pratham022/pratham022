@@ -83,4 +83,4 @@
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pratham022&show_icons=true&locale=en" alt="pratham022" width="460" height="200"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham022&" alt="pratham022" width="460" height="200"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pratham022&show_icons=true&locale=en" alt="pratham022" width="360" height="200"/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham022&" alt="pratham022" width="360" height="200"/></p>
