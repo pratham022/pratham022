@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React
 
-- 🌱 I’m currently learning Machine Learning and Next.js
+- 🌱 I’m currently learning React Native
 
 - 💬 Ask me about Angular, Java, React and Django
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pratham65000771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratham65000771" height="30" width="40" /></a>
+<a href="https://twitter.com/PrathamThombre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PrathamThombre" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prathamesh-thombre-62b155193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-thombre-62b155193" height="30" width="40" /></a>
 <a href="https://kaggle.com/prathameshthombre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathameshthombre" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pratham_022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pratham_022" height="30" width="40" /></a>
