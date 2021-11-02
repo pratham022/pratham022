@@ -11,13 +11,13 @@
 </span>
 </h3>
 
-
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about Angular, Java, React and Django
 - :heart: I love seeking  innovative solutions to everyday problems
 - 📫 How to reach me **pthombre657@gmail.com**
 
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
  
