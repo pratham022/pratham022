@@ -11,7 +11,6 @@
 </span>
 </h3>
 
-<!-- <img align="right" height="250" width="375" alt="" src="https://github.com/KKhushhalR2405/Bio/blob/master/coding2.gif" /> -->
 
 - 🔭 I’m currently working on MERN Stack
 
@@ -26,8 +25,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
  
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=pratham022&show_icons=true&theme=radical&count_private=true" alt="Prathamesh Thombre's GitHub stats"/>
-<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham022&theme=radical" alt="GitHub Streak"/>
+ <img align="right" width="440" src="https://github-readme-stats.vercel.app/api?username=pratham022&show_icons=true&theme=radical&count_private=true" alt="Prathamesh Thombre's GitHub stats"/>
+<img align="right" width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham022&theme=radical" alt="GitHub Streak"/>
  
 | Domain | Technology |
 | :--- | :--- |
