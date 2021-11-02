@@ -12,14 +12,17 @@
 </h3>
 
 - 🔭 I’m currently working on MERN Stack
+
 - 🌱 I’m currently learning React Native
+
 - 💬 Ask me about Angular, Java, React and Django
+
 - :heart: I love seeking  innovative solutions to everyday problems
+
 - 📫 How to reach me **pthombre657@gmail.com**
 
-<br />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub Stats:</h3>
  
  <img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=pratham022&show_icons=true&theme=radical&count_private=true" alt="Prathamesh Thombre's GitHub stats"/>
 <img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham022&theme=radical" alt="GitHub Streak"/>
