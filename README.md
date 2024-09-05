@@ -27,13 +27,6 @@
 | **Achievements** | Won Best Project in Open Innovation track, Hack It Out hackathon |
 | **Coding Profiles** | [LeetCode](https://www.leetcode.com/pthombre657) | [CodeChef](https://www.codechef.com/users/pratham_022) |
 
-### GitHub Stats:
-
-<p align="left">
-  <img width="410" src="https://github-readme-stats.vercel.app/api?username=pratham022&show_icons=true&theme=radical&count_private=true" alt="Prathamesh Thombre's GitHub stats"/>
-  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham022&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ### Professional Experience:
 
 **Amazon** (July 2022 – Present)  
